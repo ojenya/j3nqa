@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/j3nqa/calc/static/css/main.981f7211.chunk.css",
-    "main.js": "/j3nqa/calc/static/js/main.78167125.chunk.js",
-    "main.js.map": "/j3nqa/calc/static/js/main.78167125.chunk.js.map",
-    "runtime-main.js": "/j3nqa/calc/static/js/runtime-main.c4d35dae.js",
-    "runtime-main.js.map": "/j3nqa/calc/static/js/runtime-main.c4d35dae.js.map",
-    "static/css/2.70f3b80d.chunk.css": "/j3nqa/calc/static/css/2.70f3b80d.chunk.css",
-    "static/js/2.6f0d3a00.chunk.js": "/j3nqa/calc/static/js/2.6f0d3a00.chunk.js",
-    "static/js/2.6f0d3a00.chunk.js.map": "/j3nqa/calc/static/js/2.6f0d3a00.chunk.js.map",
-    "index.html": "/j3nqa/calc/index.html",
-    "precache-manifest.4ed4228218646d7a6577b25a4193ed9a.js": "/j3nqa/calc/precache-manifest.4ed4228218646d7a6577b25a4193ed9a.js",
-    "service-worker.js": "/j3nqa/calc/service-worker.js",
-    "static/css/2.70f3b80d.chunk.css.map": "/j3nqa/calc/static/css/2.70f3b80d.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/j3nqa/calc/static/css/main.981f7211.chunk.css.map",
-    "static/media/persik.png": "/j3nqa/calc/static/media/persik.4e1ec840.png"
+    "main.css": "/j3nqa/static/css/main.981f7211.chunk.css",
+    "main.js": "/j3nqa/static/js/main.8c607bcf.chunk.js",
+    "main.js.map": "/j3nqa/static/js/main.8c607bcf.chunk.js.map",
+    "runtime-main.js": "/j3nqa/static/js/runtime-main.0154b931.js",
+    "runtime-main.js.map": "/j3nqa/static/js/runtime-main.0154b931.js.map",
+    "static/css/2.70f3b80d.chunk.css": "/j3nqa/static/css/2.70f3b80d.chunk.css",
+    "static/js/2.c6ea74fb.chunk.js": "/j3nqa/static/js/2.c6ea74fb.chunk.js",
+    "static/js/2.c6ea74fb.chunk.js.map": "/j3nqa/static/js/2.c6ea74fb.chunk.js.map",
+    "index.html": "/j3nqa/index.html",
+    "precache-manifest.1ec66738c5e3de952f5316926fdf7325.js": "/j3nqa/precache-manifest.1ec66738c5e3de952f5316926fdf7325.js",
+    "service-worker.js": "/j3nqa/service-worker.js",
+    "static/css/2.70f3b80d.chunk.css.map": "/j3nqa/static/css/2.70f3b80d.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/j3nqa/static/css/main.981f7211.chunk.css.map",
+    "static/media/persik.png": "/j3nqa/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4d35dae.js",
+    "static/js/runtime-main.0154b931.js",
     "static/css/2.70f3b80d.chunk.css",
-    "static/js/2.6f0d3a00.chunk.js",
+    "static/js/2.c6ea74fb.chunk.js",
     "static/css/main.981f7211.chunk.css",
-    "static/js/main.78167125.chunk.js"
+    "static/js/main.8c607bcf.chunk.js"
   ]
 }
