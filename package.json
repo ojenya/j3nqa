@@ -1,8 +1,8 @@
 {
-  "name": "calc",
+  "name": "j3nqa",
   "version": "1.0.0",
   "description": "",
-  "homepage": "https://ojenya.github.io/j3nqa/calc/",
+  "homepage": "https://ojenya.github.io/j3nqa/",
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
